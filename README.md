@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on several projects and I'm still learning stuff.
 - 👯 I don't think I'm ready to collaborate to anything **yet**...
 - 😄 Pronouns: **they/them** or any (I don't really care)
-- 💬 My name could look real to some people, but it's actually all made up. You can ignore the accented *e* and call me *Verarr* if you can't type *é* easily.
+- 💬 My username could look like a real name to some people, but it's actually all made up. You can ignore the accented *e* and call me *Verarr* if you can't type *é* easily.
 
 <!--
 **Verarr/Verarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
