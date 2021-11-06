@@ -1,4 +1,4 @@
-## Hi there, I'm Vérarr 👋 ##
+### Hi there, I'm Vérarr 👋 ###
 
 - 🧒 I'm a child.
 - 🔭 I'm currently working on several projects and I'm still learning stuff.
