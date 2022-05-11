@@ -4,10 +4,10 @@
 - 🔭 I'm currently working on several projects and I'm still learning stuff.
 - 👯 I don't think I'm ready to collaborate to anything **yet**...
 - 😄 Pronouns: **they/them** or any (I don't really care)
+- 📫 If - for whatever reason - you'd like to message me, you can send an email to my [listed email address](mailto:verarr.dev@gmail.com) or DM verarr#0440 on Discord (if you can).
 <!-- I thought I'd drop the 'é'
 - 💬 My username could look like a real name to some people, but it's actually all made up. You can ignore the accented *e* and call me *Verarr* if you can't type *é* easily.
 -->
-- 📫 If - for whatever reason - you'd like to message me, you can send an email to my [listed email address](mailto:verarr.dev@gmail.com) or DM verarr#0440 on Discord (if you can).
 
 <!--
 **Verarr/Verarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
